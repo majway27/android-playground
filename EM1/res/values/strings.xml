@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Strings -->
+    <string name="app_name">Encypted Memories</string>
+    <string name="action_settings">Settings</string>
+    <string name="cutscreen_title">A Sam Carter Story</string>
+    <string name="kickoff_title_1">The story begins..</string>
+    <string name="kickoff_content_1">This contains a intro on Sam\'s recent return from a conference, text, text, text, text</string>
+    <string name="jump_title_1">Welcome Operator</string>
+    <string name="jump_title_2">Please choose below:</string>
+	<string name="stat_title_1">Mission Status</string>
+	<string name="stat_title_2">Lino Agents</string>
+    <string name="stat_title_3">Initium Defragmentation</string>
+    <string name="dash_title_1">Act I/II/III</string>
+    <string name="dash_title_2">Story In-Progress Details refreshed here (update at checkpoints)  Can hold much data, will probably need to be scrollable and goal is to enable TTS for reading of this content</string>
+    <string name="mess_title_1">Notifications</string>
+	<string name="mess_title_2">Select an item below</string>
+    
+    <!-- Button faces -->
+    <string name="jump_button_1">Start New</string>
+    <string name="jump_button_2">Resume Story</string>
+    <string name="jump_button_3">Options</string>
+    <string name="jump_button_4">About</string>
+    <string name="dash_button_1">Story Option 1</string>
+    <string name="dash_button_2">Story Option 2</string>
+    <string name="dash_button_3">Story Option 3</string>
+    
+    <!-- Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="offblack">#141414</color>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal|top" >
+
+    <TextView
+        android:id="@+id/textViewC1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center|center_horizontal|center_vertical"
+        android:background="@color/black"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/cutscreen_title"
+        android:textAllCaps="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</FrameLayout>
